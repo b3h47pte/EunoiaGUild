@@ -1,1 +1,1 @@
-# EunoiaGUild
+# Eunoia Guild Management System
